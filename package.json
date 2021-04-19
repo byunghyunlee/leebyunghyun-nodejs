@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "leebyunghyun-nodejs",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "스프링 프로젝트에 실시간 차트기능을 구현해주는 노드js 기반의 socket앱 입니다.",
   "engines": {
     "node": "14.x"
   },
